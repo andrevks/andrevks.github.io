@@ -1,3 +1,11 @@
 Simple Blog
 
-O objetivo é criar um website no formato de blog com [PELICAN]
+Objetivo
+
+ criar um website no formato de blog com PELICAN
+
+Colaboradores
+
+@andrevks @ikamihiro
+
+
